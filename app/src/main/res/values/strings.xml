@@ -10,4 +10,11 @@
     <string name="menu_shigarma">Шығармалар</string>
     <string name="menu_omir">Өмир жолы</string>
     <string name="menu_saylandi">Сайландылар</string>
+    <string name="card1">МУҲАББАТ ҚОСЫҚЛАРЫ</string>
+    <string name="card2">АЙРАЛЫҚ ҲӘМ ЕЛ-ЖУРТ ҲАҚҚЫНДАҒЫ ҚОСЫҚЛАР</string>
+    <string name="card3">ХОШЛАСЫЎ ҲӘМ СӘЛЕМНАМАЛАР</string>
+    <string name="card4">АҚЫЛ-НӘСИЯТ ҚОСЫҚЛАРЫ</string>
+    <string name="card5">ЮМОР-САТИРАЛЫҚ ҚОСЫҚЛАР</string>
+    <string name="card6">ПОЭМА</string>
+    <string name="card7">АЙТЫСЛАР</string>
 </resources>
